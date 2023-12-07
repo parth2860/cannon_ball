@@ -19,5 +19,9 @@
 			"Name": "FbxAutomationTestBuilder",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"Windows"
 	]
 }
